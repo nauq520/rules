@@ -1,0 +1,54 @@
+# Talkatone直连
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,tktn.at
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
+
+# Emby直连
+# 域名后缀匹配
+DOMAIN-SUFFIX,emby.awatv.de
+DOMAIN-SUFFIX,cdn.emby.my
+DOMAIN-SUFFIX,emby.my
+DOMAIN-SUFFIX,ccdn.emby.my
+DOMAIN-SUFFIX,emby.aca.best
+DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub1.term.wtf
+DOMAIN-SUFFIX,pub2.term.wtf
+DOMAIN-SUFFIX,pub3.term.wtf
+DOMAIN-SUFFIX,yhemby.top
+DOMAIN-SUFFIX,cdn.7777777.buzz
+DOMAIN-SUFFIX,581658.best
+DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,oversea.alphatvapp.top
+IP-CIDR,107.181.238.0/24,no-resolve
+DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,jsq.mooguu.xyz
+DOMAIN-SUFFIX,abc.auroramedia.vip
+DOMAIN-SUFFIX,tdck.fun
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,awatv
+DOMAIN-KEYWORD,aca
+DOMAIN-KEYWORD,tanhuatv
+DOMAIN-KEYWORD,term
+DOMAIN-KEYWORD,yhemby
+DOMAIN-KEYWORD,7777777
+DOMAIN-KEYWORD,581658
+DOMAIN-KEYWORD,alphatvapp
+DOMAIN-KEYWORD,sfcj
+DOMAIN-KEYWORD,mooguu
+DOMAIN-KEYWORD,auroramedia
+DOMAIN-KEYWORD,tdck
