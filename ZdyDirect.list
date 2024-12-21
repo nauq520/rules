@@ -39,6 +39,9 @@ DOMAIN-SUFFIX,jsq.mooguu.xyz
 DOMAIN-SUFFIX,abc.auroramedia.vip
 DOMAIN-SUFFIX,tdck.fun
 
+# 自己的域名
+DOMAIN-SUFFIX,wxll.us.kg
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,awatv
 DOMAIN-KEYWORD,aca
