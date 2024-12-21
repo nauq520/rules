@@ -17,6 +17,7 @@ IP-CIDR,69.46.75.0/24,no-resolve
 # Emby直连
 # 域名后缀匹配
 DOMAIN-SUFFIX,emby.awatv.de
+DOMAIN-SUFFIX,01.awatv.de
 DOMAIN-SUFFIX,cdn.emby.my
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,ccdn.emby.my
