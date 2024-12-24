@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,jsq.mooguu.xyz
 DOMAIN-SUFFIX,abc.auroramedia.vip
 DOMAIN-SUFFIX,tdck.fun
 DOMAIN-SUFFIX,emby.yomo.lol
+IP-CIDR,104.161.22.0/24,no-resolve
 
 # 自己的域名
 DOMAIN-SUFFIX,wxll.us.kg
