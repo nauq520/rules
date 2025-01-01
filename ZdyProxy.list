@@ -21,3 +21,6 @@ DOMAIN-KEYWORD,nebula-media
 DOMAIN-KEYWORD,ping0
 DOMAIN-KEYWORD,ipleak
 DOMAIN-KEYWORD,browserleaks
+
+# Emby ip
+IP-CIDR,192.99.35.0/24,no-resolve
