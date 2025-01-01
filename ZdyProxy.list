@@ -2,7 +2,6 @@
 DOMAIN-SUFFIX,tktn.be
 
 # Emby需要代理的
-DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,emby.nebula-media.org
 
@@ -17,7 +16,6 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,glados.network
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,nanflix
 DOMAIN-KEYWORD,misty
 DOMAIN-KEYWORD,nebula-media
 DOMAIN-KEYWORD,ping0
