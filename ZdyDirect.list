@@ -38,8 +38,11 @@ DOMAIN-SUFFIX,ok.alphatvapp.top
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,jsq.mooguu.xyz
 DOMAIN-SUFFIX,abc.auroramedia.vip
-DOMAIN-SUFFIX,tdck.fun
 DOMAIN-SUFFIX,emby.yomo.lol
+DOMAIN-SUFFIX,us.nanflix.net
+DOMAIN-SUFFIX,192.99.35.0/24,no-resolve
+DOMAIN-SUFFIX,tdck.fun
+
 
 
 # Emby ip
@@ -63,6 +66,7 @@ DOMAIN-KEYWORD,alphatvapp
 DOMAIN-KEYWORD,sfcj
 DOMAIN-KEYWORD,mooguu
 DOMAIN-KEYWORD,auroramedia
-DOMAIN-KEYWORD,tdck
 DOMAIN-KEYWORD,yomo
 DOMAIN-KEYWORD,misakaf
+DOMAIN-KEYWORD,nanflix
+DOMAIN-KEYWORD,tdck
