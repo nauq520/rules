@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,jsq.mooguu.xyz
 DOMAIN-SUFFIX,abc.auroramedia.vip
 DOMAIN-SUFFIX,emby.yomo.lol
 DOMAIN-SUFFIX,us.nanflix.net
-DOMAIN-SUFFIX,192.99.35.0/24,no-resolve
 DOMAIN-SUFFIX,tdck.fun
 
 
@@ -49,6 +48,7 @@ DOMAIN-SUFFIX,tdck.fun
 IP-CIDR,107.181.238.0/24,no-resolve
 IP-CIDR,31.25.88.0/24,no-resolve
 IP-CIDR,104.161.22.0/24,no-resolve
+IP-CIDR,192.99.35.0/24,no-resolve
 
 
 # 自己的域名
