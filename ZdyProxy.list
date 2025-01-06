@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,tktn.be
 # Emby需要代理的
 DOMAIN-SUFFIX,misty.cx
 DOMAIN-SUFFIX,emby.nebula-media.org
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,gd.9521732.xyz
 
 
 # 检测IP的
@@ -21,6 +23,7 @@ DOMAIN-KEYWORD,nebula-media
 DOMAIN-KEYWORD,ping0
 DOMAIN-KEYWORD,ipleak
 DOMAIN-KEYWORD,browserleaks
+DOMAIN-KEYWORD,embyplus
 
 # Emby ip
 IP-CIDR,192.99.35.0/24,no-resolve
