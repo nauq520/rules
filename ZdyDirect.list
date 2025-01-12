@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,abc.auroramedia.vip
 DOMAIN-SUFFIX,emby.yomo.lol
 DOMAIN-SUFFIX,us.nanflix.net
 DOMAIN-SUFFIX,tdck.fun
+DOMAIN-SUFFIX,lite.saturday.video
 
 
 
@@ -70,3 +71,4 @@ DOMAIN-KEYWORD,yomo
 DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,nanflix
 DOMAIN-KEYWORD,tdck
+DOMAIN-KEYWORD,saturday
