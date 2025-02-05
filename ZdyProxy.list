@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,chirsemby.top
 DOMAIN-SUFFIX,emby4.029902.xyz
 DOMAIN-SUFFIX,alist7.eu.org
 DOMAIN-SUFFIX,1024.name
+DOMAIN-SUFFIX,emby.jingzhe.pro
 
 
 # 检测IP的
@@ -30,6 +31,7 @@ DOMAIN-KEYWORD,ping0
 DOMAIN-KEYWORD,ipleak
 DOMAIN-KEYWORD,browserleaks
 DOMAIN-KEYWORD,embyplus
+DOMAIN-KEYWORD,jingzhe
 
 # Emby ip
 IP-CIDR,192.99.35.0/24,no-resolve
